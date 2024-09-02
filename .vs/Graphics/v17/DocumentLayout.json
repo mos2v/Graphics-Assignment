@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mos3060ti\\Desktop\\ASU\\Y3\\2nd Term\\Computer Graphics\\Animation - TA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|c:\\users\\mos3060ti\\desktop\\asu\\y3\\2nd term\\computer graphics\\animation - ta\\graphics\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|solutionrelative:graphics\\renderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|C:\\Users\\mos3060ti\\Desktop\\ASU\\Y3\\2nd Term\\Computer Graphics\\Animation - TA\\graphics\\shaders\\simplevertexshader.vertexshader||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|solutionrelative:graphics\\shaders\\simplevertexshader.vertexshader||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|C:\\Users\\mos3060ti\\Desktop\\ASU\\Y3\\2nd Term\\Computer Graphics\\Animation - TA\\graphics\\shaders\\simplefragmentshader.fragmentshader||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|solutionrelative:graphics\\shaders\\simplefragmentshader.fragmentshader||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|C:\\Users\\mos3060ti\\Desktop\\ASU\\Y3\\2nd Term\\Computer Graphics\\Animation - TA\\graphics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6600EA5-A7B0-425A-96E0-2448C6053140}|Graphics\\Graphics.csproj|solutionrelative:graphics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleVertexShader.vertexshader",
+              "DocumentMoniker": "C:\\Users\\mos3060ti\\Desktop\\ASU\\Y3\\2nd Term\\Computer Graphics\\Animation - TA\\Graphics\\Shaders\\SimpleVertexShader.vertexshader",
+              "RelativeDocumentMoniker": "Graphics\\Shaders\\SimpleVertexShader.vertexshader",
+              "ToolTip": "C:\\Users\\mos3060ti\\Desktop\\ASU\\Y3\\2nd Term\\Computer Graphics\\Animation - TA\\Graphics\\Shaders\\SimpleVertexShader.vertexshader",
+              "RelativeToolTip": "Graphics\\Shaders\\SimpleVertexShader.vertexshader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-05T21:11:22.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleFragmentShader.fragmentshader",
+              "DocumentMoniker": "C:\\Users\\mos3060ti\\Desktop\\ASU\\Y3\\2nd Term\\Computer Graphics\\Animation - TA\\Graphics\\Shaders\\SimpleFragmentShader.fragmentshader",
+              "RelativeDocumentMoniker": "Graphics\\Shaders\\SimpleFragmentShader.fragmentshader",
+              "ToolTip": "C:\\Users\\mos3060ti\\Desktop\\ASU\\Y3\\2nd Term\\Computer Graphics\\Animation - TA\\Graphics\\Shaders\\SimpleFragmentShader.fragmentshader",
+              "RelativeToolTip": "Graphics\\Shaders\\SimpleFragmentShader.fragmentshader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-05T20:38:30.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mos3060ti\\Desktop\\ASU\\Y3\\2nd Term\\Computer Graphics\\Animation - TA\\Graphics\\Program.cs",
+              "RelativeDocumentMoniker": "Graphics\\Program.cs",
+              "ToolTip": "C:\\Users\\mos3060ti\\Desktop\\ASU\\Y3\\2nd Term\\Computer Graphics\\Animation - TA\\Graphics\\Program.cs",
+              "RelativeToolTip": "Graphics\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:37:30.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Renderer.cs",
+              "DocumentMoniker": "C:\\Users\\mos3060ti\\Desktop\\ASU\\Y3\\2nd Term\\Computer Graphics\\Animation - TA\\Graphics\\Renderer.cs",
+              "RelativeDocumentMoniker": "Graphics\\Renderer.cs",
+              "ToolTip": "C:\\Users\\mos3060ti\\Desktop\\ASU\\Y3\\2nd Term\\Computer Graphics\\Animation - TA\\Graphics\\Renderer.cs",
+              "RelativeToolTip": "Graphics\\Renderer.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAQwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:23:27.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
